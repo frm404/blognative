@@ -9,9 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 Instructions to follow :
 
 ```
-1 - You have to import the db.sql file to your database
+1 - You have to import the blog.sql file to your database
 2 - Copy all files to your htdocs/blog folder
-3 - Run your server and navigate to the project (http://localhost/blog/)
+3 - Run your server and navigate to the project (http://localhost/blognative/)
 ```
 
 ### Prerequisites
